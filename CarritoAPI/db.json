@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "nombre": "Audífonos inalámbricos",
+      "descripcion": "Sonido envolvente, batería de larga duración y diseño moderno.",
+      "precio": 850,
+      "imagen": "https://media.istockphoto.com/id/1246138278/es/foto/auriculares-inal%C3%A1mbricos-blancos-met%C3%A1licos-plateados-en-el-aire-aislados-sobre-fondo-blanco.jpg?s=1024x1024&w=is&k=20&c=XfKSfE3Bm3vy_ilI_ESbVIRZ-LyKkuwVaimYh_wyx9s=",
+      "stock": 11,
+      "categoria": "Audio"
+    },
+    {
+      "id": 2,
+      "nombre": "Teclado mecánico",
+      "descripcion": "Ideal para programar, estudiar y jugar.",
+      "precio": 1200,
+      "imagen": "https://media.istockphoto.com/id/1336345692/es/foto/teclado-mec%C3%A1nico-para-juegos-con-retroiluminaci%C3%B3n-vista-superior-teclado-para-juegos-con.jpg?s=1024x1024&w=is&k=20&c=BBY3WE3Y-fUlWwlQ9TOTlr1o_vcCCgW1T5fjzgm2ibA=",
+      "stock": 8,
+      "categoria": "Accesorios"
+    },
+    {
+      "id": 3,
+      "nombre": "Mouse gamer",
+      "descripcion": "Ergonómico, preciso y con iluminación RGB.",
+      "precio": 650,
+      "imagen": "https://media.istockphoto.com/id/960058256/es/foto/rat%C3%B3n-para-juegos-aislado-sobre-fondo-blanco.jpg?s=1024x1024&w=is&k=20&c=SRA19eG-pm8zWELnh-HqjM4Q7WfgPbXura1YrqZueaA=",
+      "stock": 15,
+      "categoria": "Accesorios"
+    },
+    {
+      "id": 4,
+      "nombre": "Monitor 24 pulgadas",
+      "descripcion": "Pantalla Full HD ideal para estudio y trabajo.",
+      "precio": 3500,
+      "imagen": "https://media.istockphoto.com/id/2159935765/es/foto/estudio-de-juegos-de-deportes-electr%C3%B3nicos-con-tapa-led-profesional-con-videojuego-en-l%C3%ADnea-de.jpg?s=1024x1024&w=is&k=20&c=gF95asyihSI7xGsETa8Lo22iwP9WrRT7spb1IY8RrnY=",
+      "stock": 5,
+      "categoria": "Monitores"
+    },
+    {
+      "id": 5,
+      "nombre": "Laptop básica",
+      "descripcion": "Equipo funcional para tareas, clases y navegación.",
+      "precio": 9800,
+      "imagen": "https://media.istockphoto.com/id/1394988455/es/foto/port%C3%A1til-con-pantalla-en-blanco-sobre-fondo-blanco.jpg?s=1024x1024&w=is&k=20&c=LtNDpo5MIwNdwQIFFIqGW4oDLkKZsdLke6_1LsKPTW4=",
+      "stock": 4,
+      "categoria": "Computadoras"
+    },
+    {
+      "id": 6,
+      "nombre": "Bocina Bluetooth",
+      "descripcion": "Compacta, portátil y con excelente sonido.",
+      "precio": 999,
+      "imagen": "https://media.istockphoto.com/id/1305489264/es/foto/altavoz-inal%C3%A1mbrico-port%C3%A1til-rojo-aislado-sobre-fondo-blanco-altavoz-m%C3%B3vil-color-rojo-con.jpg?s=1024x1024&w=is&k=20&c=-cEkQxymLbVDUOQicesX_JwdJOdvPFEUcqg0kz7NFmU=",
+      "stock": 12,
+      "categoria": "Audio"
+    }
+  ],
+  "cart": []
+}
